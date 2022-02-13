@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-13T22:50:21.165Z" agent="5.0 (Windows)" etag="Hcr7mY981asqc_K8vqC1" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-13T22:50:48.534Z" agent="5.0 (Windows)" etag="00I4F-HyPHRXq_gYzLiJ" version="16.4.7" type="github">
   <diagram id="6Lt3XMlZvN6wolLC028R" name="Page-1">
     <mxGraphModel dx="1221" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,20 +76,20 @@
             <mxPoint x="690" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hyw3JtwUEp7ITJ-Yt7Wr-24" value="&lt;h1&gt;Controller Section&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Hyw3JtwUEp7ITJ-Yt7Wr-24" value="&lt;h1&gt;Controller Section&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Resistive touch pads&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="90" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Hyw3JtwUEp7ITJ-Yt7Wr-25" value="Touchpad 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hyw3JtwUEp7ITJ-Yt7Wr-26" value="Touchpad 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hyw3JtwUEp7ITJ-Yt7Wr-27" value="Touchpad 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hyw3JtwUEp7ITJ-Yt7Wr-28" value="Touchpad 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
